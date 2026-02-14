@@ -66,12 +66,4 @@ Every non-dimension sheet was conceptualized, structured, and built from a blank
 - [ ] Transitioning the backend logic to SQL for enterprise-scale testing.
 
 ---
-
-## 👤 Author
-**[Your Name]**
-*Data Architect & Spreadsheet Engineer*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-link-here)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-orange?style=flat&logo=buffer)](your-link-here)
-
----
 *Note: This project is a demonstration of advanced data modeling capabilities, specifically focusing on the intersection of raw data enrichment and custom analytical framework building.*
